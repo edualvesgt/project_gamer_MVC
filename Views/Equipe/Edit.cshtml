@@ -1,0 +1,73 @@
+@model Equipe
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipes</title>
+    @* <link rel="stylesheet" href="~/css/reset-and-basics.css"> *@
+    <link rel="stylesheet" href="~/css/Header-footer.css">
+    <link rel="stylesheet" href="~/css/Equipe.css">
+
+
+</head>
+
+@* <h1>Edicao De Equipes</h1>
+
+<form method="post" action='@Url.Action("Atualizar")' enctype="multipart/form-data">
+
+<input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
+
+<label for="">Nome</label>
+<input type="text" name="Nome" value="@ViewBag.Equipe.Nome">
+
+<label for="">Imagem</label>
+<input type="file" name="Imagem" value="@ViewBag.Equipe.Imagem">
+
+<button type="submit">Atualizar</button>
+
+
+
+</form> *@
+
+
+
+<main>
+
+    <section class="container-grid cadastro-equipes">
+
+        @if (ViewBag.Username == null)
+        {
+
+            <a class="navbar-brand" asp-area="" asp-controller="Login" asp-action="index">Login</a>
+        }
+        else
+        {
+
+            <form method="post" action='@Url.Action("Atualizar")' enctype="multipart/form-data" class="frm-cad-equipe">
+                <div class="cadequipe-titulo">
+                    <h1>Editor de Equipes</h1>
+                    <hr>
+                </div> <input class="campo-entrada" type="hidden" id="idEquipe" value="@ViewBag.Equipe.IdEquipe"
+                    placeholder="Digite o Id da sua equipe:"> <input class="campo-entrada" type="text" name="Nome" required
+                    placeholder="Digite o nome da sua equipe:" value="@ViewBag.Equipe.Nome"> <label class="foto"
+                    for="foto-file"> Nenuma imagem selecionada... <input type="file" id="foto-file" name="Imagem"
+                        value="@ViewBag.Equipe.Imagem"> </label> <button type="submit">Atualizar</button>
+                <!-- <select class="equipeid" id="equipeid"> <option value="">Selecione uma Equipe</option> <option value="x">Equipe X</option> <option value="y">Equipe Y</option> </select> -->
+            </form>
+        }
+
+
+    </section>
+</main>
+
+
+
+
+
+

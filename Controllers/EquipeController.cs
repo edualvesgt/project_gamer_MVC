@@ -17,10 +17,13 @@ namespace Projeto_gamer_Back.Controllers
         //INSTANCIA DO CONTEXT PARA ACESSAR O BANCO DE DADOS 
         Context c = new Context();
 
+
         [Route("Listar")] //  ex:   htt://localhost/Equipe/Listar
 
         public IActionResult Index()
         {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
+
             //VARIAVEL QUE ARMAZENA AS EQUIPES LISTADAS DO BANCO 
             ViewBag.Equipe = c.Equipe.ToList();
 
@@ -95,7 +98,69 @@ namespace Projeto_gamer_Back.Controllers
             c.SaveChanges();
 
             return LocalRedirect("~/Equipe/Listar");
+
+        }
+
+        [Route("Editar/{id}")]
+        public IActionResult Editar(int id)
+        {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
             
+            Equipe equipe = c.Equipe.First(x => x.IdEquipe == id);
+
+            ViewBag.Equipe = equipe;
+
+            return View("Edit");
+        }
+
+        [Route("Atualizar")]
+        public IActionResult Atualizar(IFormCollection form)
+        {
+            Equipe equipe = new Equipe();
+
+            equipe.IdEquipe = int.Parse(form["IdEquipe"].ToString());
+
+            equipe.Nome = form["Nome"].ToString();
+
+            if (form.Files.Count > 0)
+            {
+                var file = form.Files[0];
+
+                var folder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/img/Equipes");
+
+                if (!Directory.Exists(folder))
+                {
+                    Directory.CreateDirectory(folder);
+                }
+
+                var path = Path.Combine(folder, file.FileName);
+
+                using (var stream = new FileStream(path, FileMode.Create))
+                {
+                    file.CopyTo(stream);
+                }
+
+                equipe.Imagem = file.FileName;
+
+            }
+
+            else
+            {
+                equipe.Imagem = "padrao.png";
+            }
+
+            Equipe equipeBuscada = c.Equipe.First(e => e.IdEquipe == equipe.IdEquipe);
+
+            equipeBuscada.Nome = equipe.Nome;
+            equipeBuscada.Imagem = equipe.Imagem;
+
+            c.Equipe.Update(equipeBuscada);
+
+            c.SaveChanges();
+
+
+            return LocalRedirect("~/Equipe/Listar");
+
         }
 
 

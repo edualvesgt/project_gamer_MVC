@@ -5,16 +5,376 @@
       "PackagePath": "staticwebassets\\Projeto_gamer_Back.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\Banner_Login.png",
+      "PackagePath": "staticwebassets\\assets\\Banner_Login.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\Botao_voltar_ao_topo.svg",
+      "PackagePath": "staticwebassets\\assets\\Botao_voltar_ao_topo.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\edit.png",
+      "PackagePath": "staticwebassets\\assets\\edit.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\envelope-icon.png",
+      "PackagePath": "staticwebassets\\assets\\envelope-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\facebook-yellow.svg",
+      "PackagePath": "staticwebassets\\assets\\facebook-yellow.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\facebook.svg",
+      "PackagePath": "staticwebassets\\assets\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\Inter-VariableFont_slnt,wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Inter\\static\\Inter-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\Quicksand-VariableFont_wght.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\README.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\static\\Quicksand-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\static\\Quicksand-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\static\\Quicksand-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\static\\Quicksand-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Quicksand\\static\\Quicksand-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\OFL.txt",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Titillium_Web\\TitilliumWeb-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fundo-jogadores-mobile.png",
+      "PackagePath": "staticwebassets\\assets\\fundo-jogadores-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\fundo-login.png",
+      "PackagePath": "staticwebassets\\assets\\fundo-login.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\go-to-top.png",
+      "PackagePath": "staticwebassets\\assets\\go-to-top.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\green-play.svg",
+      "PackagePath": "staticwebassets\\assets\\green-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\instagram-yellow.svg",
+      "PackagePath": "staticwebassets\\assets\\instagram-yellow.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\instagram.svg",
+      "PackagePath": "staticwebassets\\assets\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\joystick-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\joystick-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\joystick-prof-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\joystick-prof-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\linkedin-yellow.svg",
+      "PackagePath": "staticwebassets\\assets\\linkedin-yellow.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\linkedin.svg",
+      "PackagePath": "staticwebassets\\assets\\linkedin.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\logotipo-gamer.png",
+      "PackagePath": "staticwebassets\\assets\\logotipo-gamer.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\logotipo-gamer.svg",
+      "PackagePath": "staticwebassets\\assets\\logotipo-gamer.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\logout.gif",
+      "PackagePath": "staticwebassets\\assets\\logout.gif"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\market-icon.png",
+      "PackagePath": "staticwebassets\\assets\\market-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\menu-hamburger.svg",
+      "PackagePath": "staticwebassets\\assets\\menu-hamburger.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\menu-points.png",
+      "PackagePath": "staticwebassets\\assets\\menu-points.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\phone-icon.png",
+      "PackagePath": "staticwebassets\\assets\\phone-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\search-icon.png",
+      "PackagePath": "staticwebassets\\assets\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\search-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\search-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\trash.png",
+      "PackagePath": "staticwebassets\\assets\\trash.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\user-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\user-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\vector-key.svg",
+      "PackagePath": "staticwebassets\\assets\\vector-key.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\assets\\vector-user.svg",
+      "PackagePath": "staticwebassets\\assets\\vector-user.svg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\css\\Equipe.css",
+      "PackagePath": "staticwebassets\\css\\Equipe.css"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\css\\Header-footer.css",
+      "PackagePath": "staticwebassets\\css\\Header-footer.css"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\css\\Jogadores.css",
+      "PackagePath": "staticwebassets\\css\\Jogadores.css"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
       "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\Background-Login.png",
+      "PackagePath": "staticwebassets\\images\\Background-Login.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\Banner_Liga-Game-Mobile.png",
+      "PackagePath": "staticwebassets\\images\\Banner_Liga-Game-Mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\Banner_Liga-Game.png",
+      "PackagePath": "staticwebassets\\images\\Banner_Liga-Game.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\Card-FIFA.png",
+      "PackagePath": "staticwebassets\\images\\Card-FIFA.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\Game-CS-GO.png",
+      "PackagePath": "staticwebassets\\images\\Game-CS-GO.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\Game-FIFA.png",
+      "PackagePath": "staticwebassets\\images\\Game-FIFA.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\background-equipes-mobile.png",
+      "PackagePath": "staticwebassets\\images\\background-equipes-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\background-jogadores.png",
+      "PackagePath": "staticwebassets\\images\\background-jogadores.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\background-login-mobile.png",
+      "PackagePath": "staticwebassets\\images\\background-login-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\backgroung_footer.png",
+      "PackagePath": "staticwebassets\\images\\backgroung_footer.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\backgrund_notícias-mobile.png",
+      "PackagePath": "staticwebassets\\images\\backgrund_notícias-mobile.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\backgrund_notícias.png",
+      "PackagePath": "staticwebassets\\images\\backgrund_notícias.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\kiljoy.png",
+      "PackagePath": "staticwebassets\\images\\kiljoy.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\lade-lol.png",
+      "PackagePath": "staticwebassets\\images\\lade-lol.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia1.png",
+      "PackagePath": "staticwebassets\\images\\noticia1.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia2.png",
+      "PackagePath": "staticwebassets\\images\\noticia2.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia3.png",
+      "PackagePath": "staticwebassets\\images\\noticia3.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia4.png",
+      "PackagePath": "staticwebassets\\images\\noticia4.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia5.png",
+      "PackagePath": "staticwebassets\\images\\noticia5.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia6.png",
+      "PackagePath": "staticwebassets\\images\\noticia6.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia7.png",
+      "PackagePath": "staticwebassets\\images\\noticia7.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\images\\noticia8.png",
+      "PackagePath": "staticwebassets\\images\\noticia8.png"
+    },
+    {
       "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\img\\Equipes\\Calvo Guedes.jpg",
       "PackagePath": "staticwebassets\\img\\Equipes\\Calvo Guedes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\img\\Equipes\\corinthians.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\corinthians.png"
+    },
+    {
+      "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\img\\Equipes\\cr7.jfif",
+      "PackagePath": "staticwebassets\\img\\Equipes\\cr7.jfif"
     },
     {
       "Id": "C:\\Users\\46291995867\\Desktop\\Projeto_gamer_Back\\wwwroot\\js\\site.js",
